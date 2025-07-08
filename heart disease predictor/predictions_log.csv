@@ -1,0 +1,2 @@
+timestamp,prediction,age,sex,cp,restingbp,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal
+2025-07-08 12:04:39,does not have heart disease,29,1,2,170,300,1,2,150,1,5.0,1,2,3
